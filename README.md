@@ -21,7 +21,7 @@ Non-PM：Enforcing
 - Type `fastboot reboot` or reset by long-press the power button.
 - Install official [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/latest) manager. 
 
-### Note: If you're using my previous build of KernelSU, please **DO NOT DIRECTLY FLASH THIS IMAGE**! You have to wipe data after flashing this image or the manager may crash! Please backup your data in advance!
+### Note: If you're using my previous build of KernelSU, you have to WIPE DATA after flashing this image or the manager may crash! Please BACKUP YOUR DATA in advance!
 
 ## Attension
 - Both kernels can be used when other GSIs are installed. Tested GSIs: [Arrow OS v9.0](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/GSI/27_Jan_2020/), [LineageOS 16 by altairfr](https://sourceforge.net/projects/altairfr-huawei/files/LeaOS-16.0/).
