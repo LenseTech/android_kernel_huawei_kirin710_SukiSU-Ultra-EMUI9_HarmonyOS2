@@ -18,7 +18,7 @@ PM：宽容模式
 - 确保Bootloader已经解锁。
 - adb命令行输入`fastboot flash kernel "你的内核路径"`。
 - 使用`fastboot reboot`或长按电源键重启手机。
-- 安装[官方SukiSU管理器](ttps://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/latest)。
+- 安装[官方SukiSU-Ultra管理器](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/latest)。
 
 ### 注意：如果你正在使用的是我的上一个KernelSU构建版本，请在刷入镜像后双清，否则管理器可能闪退！在操作前请提前备份好数据！
 
