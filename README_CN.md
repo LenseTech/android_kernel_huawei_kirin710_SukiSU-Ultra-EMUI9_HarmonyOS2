@@ -20,7 +20,7 @@ PM：宽容模式
 - 使用`fastboot reboot`或长按电源键重启手机。
 - 安装[官方SukiSU管理器](ttps://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/latest)。
 
-### 注意：如果你正在使用的是我的上一个KernelSU构建版本，请**不要直接刷写内核镜像**！请在刷入镜像后双清，否则管理器可能闪退！在操作前请提前备份好数据！
+### 注意：如果你正在使用的是我的上一个KernelSU构建版本，请在刷入镜像后双清，否则管理器可能闪退！在操作前请提前备份好数据！
 
 ## 注意事项
 - 在刷入其他GSI的情况下两种内核均可使用。已测试的GSI：[Arrow OS v9.0](https://sourceforge.net/projects/arrow-os/files/arrow-9.x/GSI/27_Jan_2020/)、[LineageOS 16 by altairfr](https://sourceforge.net/projects/altairfr-huawei/files/LeaOS-16.0/)。
