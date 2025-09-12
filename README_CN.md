@@ -16,7 +16,7 @@ PM：宽容模式
 
 ## 使用方法
 - 确保Bootloader已经解锁。
-- adb命令行输入`fastboot flash kernel "你的内核路径"`。
+- 重启到Fastboot模式，在adb命令行输入`fastboot flash kernel "你的内核路径"`。
 - 使用`fastboot reboot`或长按电源键重启手机。
 - 安装[官方SukiSU-Ultra管理器](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/latest)。
 
@@ -45,3 +45,4 @@ PM：宽容模式
 ## 鸣谢
 - [KernelSU](https://github.com/tiann/KernelSU/), [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)：提供Root方案。
 - [@Coconutat](https://github.com/Coconutat/)：提供内核的编译思路和技巧。
+
