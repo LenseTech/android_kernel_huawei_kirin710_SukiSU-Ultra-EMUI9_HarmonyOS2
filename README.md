@@ -17,7 +17,7 @@ Non-PM：Enforcing
 
 ## Usage
 - Make sure your device bootloader has been unlocked.
-- Type in adb command line: `fastboot flash kernel "PATH\TO\YOUR\KERNEL"`.
+- Reboot into Fastboot mode, then type in adb command line: `fastboot flash kernel "PATH\TO\YOUR\KERNEL"`.
 - Type `fastboot reboot` or reset by long-press the power button.
 - Install official [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra/releases/latest) manager. 
 
@@ -49,3 +49,4 @@ Non-PM：Enforcing
 - [@Coconutat](https://github.com/Coconutat/): Some kernel compilation skills.
 
 Sorry for my poor English ;)
+
