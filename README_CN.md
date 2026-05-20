@@ -2,6 +2,8 @@
 
 [English](README.md) | **简体中文**
 
+# 由于 SukiSU Ultra v3.1.8 以上版本在4.x内核的兼容性不佳，本项目停止维护。
+
 ## 功能
 - 为华为Nova 3i提供SukiSU-Ultra Root。
 - 可安装模块。
