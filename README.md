@@ -1,6 +1,9 @@
 # SukiSU-Ultra for Huawei nova 3i based on EMUI9.1/HarmonyOS2.0.
 
 **English** | [简体中文](README_CN.md)
+#
+
+# Due to poor compatibility of SukiSU Ultra versions above v3.1.8 with 4.x kernels, maintenance of this project has been discontinued.
 
 ## Features
 - Provide SukiSU (Another kernel-based root solution) Root.
